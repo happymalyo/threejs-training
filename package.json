@@ -1,0 +1,14 @@
+{
+  "name": "zero-to-hero",
+  "version": "1.0.0",
+  "description": "Three.js from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "happymalyo",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.160.1"
+  }
+}
