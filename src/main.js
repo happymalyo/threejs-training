@@ -6,4 +6,4 @@ function main() {
     world.render();
 }
 
-main();
+main(); 
