@@ -21,7 +21,7 @@ body {
     z-index: 1;
   }
   
-  #scene-container {
+  #app {
     /* tell our scene container to take up the full page */
     position: absolute;
     width: 100%;

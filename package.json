@@ -1,15 +1,17 @@
 {
   "name": "zero-to-hero",
-  "version": "1.0.0",
-  "description": "Three.js from scratch",
-  "main": "index.js",
+  "private": true,
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "author": "happymalyo",
-  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.2.0"
+  },
   "dependencies": {
-    "three": "^0.160.1"
+    "three": "^0.164.1"
   }
 }
